@@ -1,9 +1,10 @@
+import Home from "./components/Home";
 import "./index.css";
 
 function App() {
   return (
     <>
-      <h1 className="text-[32px] text-green-400">nothing</h1>
+      <Home />
     </>
   );
 }
